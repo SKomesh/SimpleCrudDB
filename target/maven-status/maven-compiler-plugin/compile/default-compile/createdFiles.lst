@@ -1,0 +1,5 @@
+com\somesh\SimpleCrudDB\Controllers\CustomerController.class
+com\somesh\SimpleCrudDB\Entitys\Customer.class
+com\somesh\SimpleCrudDB\SimpleCrudDbApplication.class
+com\somesh\SimpleCrudDB\Services\CustomerService.class
+com\somesh\SimpleCrudDB\Respositorys\CustomerDao.class
